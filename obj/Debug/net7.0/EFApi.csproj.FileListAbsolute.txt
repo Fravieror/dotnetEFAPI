@@ -277,3 +277,4 @@ C:\Users\lfjl\Documents\Net core\EFApi\obj\Debug\net7.0\refint\EFApi.dll
 C:\Users\lfjl\Documents\Net core\EFApi\obj\Debug\net7.0\EFApi.pdb
 C:\Users\lfjl\Documents\Net core\EFApi\obj\Debug\net7.0\EFApi.genruntimeconfig.cache
 C:\Users\lfjl\Documents\Net core\EFApi\obj\Debug\net7.0\ref\EFApi.dll
+C:\Users\lfjl\Documents\Net core\EFApi\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
